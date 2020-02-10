@@ -16,4 +16,9 @@ public class JavaSample {
 		// Testcase2 code will be here
 		}
 
+	
+	public void TestCase3()
+	{
+		// this is my third TC
+	}
 }
