@@ -12,7 +12,7 @@ public class JavaSample {
 	}
 	
 	public void TestCase2(){
-		{
+		
 		// Testcase2 code will be here
 		}
 
